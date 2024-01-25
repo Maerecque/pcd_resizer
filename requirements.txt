@@ -1,0 +1,6 @@
+tk==0.1.0
+laspy==2.5.3
+laszip==0.2.3
+lazrs==0.5.3
+open3d==0.18.0
+numpy==1.26.2
