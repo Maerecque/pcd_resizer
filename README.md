@@ -1,3 +1,4 @@
+![Python 3.11.7](https://img.shields.io/badge/python-3.11.7-blue.svg)
 # Point Cloud Resizer™
 Point Cloud Resizer™ is een Python-script waarmee je puntenwolken in het LAS- of LAZ-formaat kunt openen, aanpassen en opslaan. Je kunt de puntenwolk downsamplen (verkleinen) door een voxelgrootte op te geven en vervolgens het resultaat bekijken of opslaan in een nieuw LAS-bestand.
 
